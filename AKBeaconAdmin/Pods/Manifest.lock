@@ -1,0 +1,15 @@
+PODS:
+  - KontaktProximitySDK (1.0.1):
+    - KontaktSDK
+  - KontaktSDK (1.5.1)
+
+DEPENDENCIES:
+  - KontaktProximitySDK (~> 1.0)
+
+SPEC CHECKSUMS:
+  KontaktProximitySDK: b530d13140a4991b59f027d813cc290942123248
+  KontaktSDK: 68cc25fd7fbab5b03b1c86db440620e55b031580
+
+PODFILE CHECKSUM: cc58713bf8e0c5ae3822ee501e0cf22f486f1979
+
+COCOAPODS: 1.3.1

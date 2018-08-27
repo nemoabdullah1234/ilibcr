@@ -1,0 +1,6 @@
+framework module ProximitySDK {
+  umbrella header "ProximitySDK.h"
+
+  export *
+  module * { export * }
+}
